@@ -1,6 +1,6 @@
 # Gym-Website
 ## FitnessPlanetClub
-This project is responsive landing page for an gym website with built on HTML, CSS and JAVASCRIPT;
+This project is responsive landing page for an gym website with built on HTML, CSS and JAVASCRIPT
 
 ## Technologies Used:
 - HTML: Page layout has been designed in HTML
