@@ -7,4 +7,4 @@ This project is responsive landing page for an gym website with built on HTML, C
 - HTML: Page layout has been designed in HTML
 - CSS: CSS has been used for all the designing part
 - JavaScript: All the validation task and animations has been developed by JavaScript
-- website is live at :-> https://chaitanyasune.github.io/Gym-Project/
+- website is live at :-> https://chaitanyasune.github.io/Gym-Website/
